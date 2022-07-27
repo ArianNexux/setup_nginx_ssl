@@ -49,7 +49,7 @@ sudo service nginx restart
 sudo add-apt-repository ppa:certbot/certbot
 sudo apt-get update
 
-FOR UBUNTU GREATER THAN 20
+FOR UBUNTU GREATER THAN OR EQUAL TO 20
 sudo apt-get install python3-certbot-nginx
 
 FOR EARLIER VERSIONS
